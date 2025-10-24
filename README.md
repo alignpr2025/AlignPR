@@ -1,6 +1,6 @@
 # AlignPaper2Repo
 
-**AlignPaper2Repo**  provides the reproducibility package and Visual Studio Code extension for our research work Align2Repo — enabling alignment between research papers and their corresponding source code repositories.
+**AlignPaper2Repo**  provides the reproducibility package and Visual Studio Code extension for our research work AlignPaper2Repo — enabling alignment between research papers and their corresponding source code repositories.
 ## dataset
 Please download the dataset from this link [data](https://zenodo.org/records/17430259) and put it in the root folder.
 ## Installation
