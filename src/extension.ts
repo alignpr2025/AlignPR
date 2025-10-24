@@ -894,5 +894,3 @@ subscriptions.push(vscode.commands.registerCommand('paperRepo.debugShowPrompts',
 }
 
 export function deactivate() {}() => {}
-
-//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
